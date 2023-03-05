@@ -9,6 +9,7 @@ li,
 a {
     text-decoration: none;
     list-style: none;
+    border-bottom: none;
 }
 
 body {
